@@ -1,8 +1,3 @@
-/*
-	Name: Sai Aditya Varma Mudunuri
-	#ID: 800986990
-*/
-
 import java.io.BufferedWriter;
 import java.io.FileOutputStream;
 import java.io.IOException;
